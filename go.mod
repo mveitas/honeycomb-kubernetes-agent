@@ -11,7 +11,7 @@ require (
 	github.com/honeycombio/libhoney-go v1.15.2
 	github.com/honeycombio/urlshaper v0.0.0-20170302202025-2baba9ae5b5f
 	github.com/hpcloud/tail v1.0.1-0.20170814160653-37f427138745
-	github.com/jessevdk/go-flags v1.4.0
+	github.com/jessevdk/go-flags v1.5.0
 	github.com/kr/logfmt v0.0.0-20140226030751-b84e30acd515
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/pkg/errors v0.9.1
